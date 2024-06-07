@@ -1,2 +1,3 @@
 # alx-backend-python
-ALX SE specialization  in backend.
+
+This repo contains ALX_SE backend python tasks
